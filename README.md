@@ -1,2 +1,2 @@
-# Apmultimedia-
-Proyecto Android de programación de aplicación  
+# Apmultimedia
+La aplicación no funciona en su totalidad
